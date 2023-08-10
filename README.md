@@ -8,6 +8,7 @@ Thesis title : Prototypical Development of a Data Exploration Tool for Cancer Pa
 Author: Jan Janosch Schneider
 
 First Supervisor: Prof. Dr. Anne-Christin Hauschild
+
 Second Supervisor: Prof. Dr. Ulrich Sax
 
 
