@@ -1,4 +1,4 @@
-# Masterthesis code base
+# Code base
 ## Tool for EHR & mutation profile based patient clustering & visualization  
 
 This tool was developed in partial fulfillment of the requirements for the course “Medical Informatics” at the University Medical Center Göttingen.
